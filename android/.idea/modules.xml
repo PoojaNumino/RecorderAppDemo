@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReactAudioPlayer.iml" filepath="$PROJECT_DIR$/.idea/modules/ReactAudioPlayer.iml" group="ReactAudioPlayer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="ReactAudioPlayer/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-707779588/expo-application.iml" filepath="$PROJECT_DIR$/.idea/modules/-707779588/expo-application.iml" group="ReactAudioPlayer/expo-application" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/844014587/expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/844014587/expo-constants.iml" group="ReactAudioPlayer/expo-constants" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1681537970/expo-error-recovery.iml" filepath="$PROJECT_DIR$/.idea/modules/-1681537970/expo-error-recovery.iml" group="ReactAudioPlayer/expo-error-recovery" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1237724596/expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/-1237724596/expo-file-system.iml" group="ReactAudioPlayer/expo-file-system" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/702391011/expo-font.iml" filepath="$PROJECT_DIR$/.idea/modules/702391011/expo-font.iml" group="ReactAudioPlayer/expo-font" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-597487271/expo-image-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/-597487271/expo-image-loader.iml" group="ReactAudioPlayer/expo-image-loader" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1749455569/expo-keep-awake.iml" filepath="$PROJECT_DIR$/.idea/modules/1749455569/expo-keep-awake.iml" group="ReactAudioPlayer/expo-keep-awake" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2066172540/expo-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-2066172540/expo-linear-gradient.iml" group="ReactAudioPlayer/expo-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/958019145/expo-location.iml" filepath="$PROJECT_DIR$/.idea/modules/958019145/expo-location.iml" group="ReactAudioPlayer/expo-location" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-263807184/expo-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-263807184/expo-permissions.iml" group="ReactAudioPlayer/expo-permissions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2030872161/expo-secure-store.iml" filepath="$PROJECT_DIR$/.idea/modules/-2030872161/expo-secure-store.iml" group="ReactAudioPlayer/expo-secure-store" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1688201278/expo-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/1688201278/expo-splash-screen.iml" group="ReactAudioPlayer/expo-splash-screen" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-76993376/expo-sqlite.iml" filepath="$PROJECT_DIR$/.idea/modules/-76993376/expo-sqlite.iml" group="ReactAudioPlayer/expo-sqlite" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/180251510/expo-updates.iml" filepath="$PROJECT_DIR$/.idea/modules/180251510/expo-updates.iml" group="ReactAudioPlayer/expo-updates" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1550867317/react-native-audio.iml" filepath="$PROJECT_DIR$/.idea/modules/1550867317/react-native-audio.iml" group="ReactAudioPlayer/react-native-audio" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1435666808/react-native-audio-recorder-player.iml" filepath="$PROJECT_DIR$/.idea/modules/1435666808/react-native-audio-recorder-player.iml" group="ReactAudioPlayer/react-native-audio-recorder-player" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1867746213/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1867746213/react-native-gesture-handler.iml" group="ReactAudioPlayer/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/35666659/react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/35666659/react-native-permissions.iml" group="ReactAudioPlayer/react-native-permissions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1603772247/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1603772247/react-native-reanimated.iml" group="ReactAudioPlayer/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-512935834/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-512935834/react-native-screens.iml" group="ReactAudioPlayer/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/884493134/unimodules-app-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/884493134/unimodules-app-loader.iml" group="ReactAudioPlayer/unimodules-app-loader" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-581034770/unimodules-barcode-scanner-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-581034770/unimodules-barcode-scanner-interface.iml" group="ReactAudioPlayer/unimodules-barcode-scanner-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1657398944/unimodules-camera-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1657398944/unimodules-camera-interface.iml" group="ReactAudioPlayer/unimodules-camera-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1794632140/unimodules-constants-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1794632140/unimodules-constants-interface.iml" group="ReactAudioPlayer/unimodules-constants-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2021553630/unimodules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/2021553630/unimodules-core.iml" group="ReactAudioPlayer/unimodules-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1326803315/unimodules-face-detector-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1326803315/unimodules-face-detector-interface.iml" group="ReactAudioPlayer/unimodules-face-detector-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/829669789/unimodules-file-system-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/829669789/unimodules-file-system-interface.iml" group="ReactAudioPlayer/unimodules-file-system-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1952252982/unimodules-font-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1952252982/unimodules-font-interface.iml" group="ReactAudioPlayer/unimodules-font-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1329716288/unimodules-image-loader-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1329716288/unimodules-image-loader-interface.iml" group="ReactAudioPlayer/unimodules-image-loader-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/648069505/unimodules-permissions-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/648069505/unimodules-permissions-interface.iml" group="ReactAudioPlayer/unimodules-permissions-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1883846118/unimodules-react-native-adapter.iml" filepath="$PROJECT_DIR$/.idea/modules/1883846118/unimodules-react-native-adapter.iml" group="ReactAudioPlayer/unimodules-react-native-adapter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-694157770/unimodules-sensors-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-694157770/unimodules-sensors-interface.iml" group="ReactAudioPlayer/unimodules-sensors-interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1215482464/unimodules-task-manager-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1215482464/unimodules-task-manager-interface.iml" group="ReactAudioPlayer/unimodules-task-manager-interface" />
+    </modules>
+  </component>
+</project>

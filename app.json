@@ -1,0 +1,12 @@
+{
+  "name": "React-Audio-Player",
+  "displayName": "React-Audio-Player",
+  "expo": {
+    "name": "React-Audio-Player",
+    "slug": "React-Audio-Player",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
